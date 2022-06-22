@@ -52,7 +52,7 @@ ALIVE_MSG = Config.ALIVE_MSG or "𝗛𝗶𝗲𝗲 𝗜 𝗮𝗺 𝗠𝗮𝘁𝗿
 
 ┣ 𝗣𝗢𝘄𝗲𝗥𝗱 𝗕𝘆 
 
-  ⋆‌⃝𓆩𝐓𝐡𝐞 𝐖𝐓𝐅 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲𓆪⁩🕊️⃝
+WTF community 
 
 ┗━━━━━━━━━━━━━━━
 
@@ -130,7 +130,7 @@ async def amireallyalive(salive):
 
 ┣ 𝗣𝗢𝘄𝗲𝗥𝗱 𝗕𝘆 
 
-  ⋆‌⃝𓆩𝐓𝐡𝐞 𝐖𝐓𝐅 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲𓆪⁩🕊️⃝
+  WTF COMMUNITY 
 
 ┗━━━━━━━━━━━━━━━
 
@@ -187,7 +187,7 @@ async def amireallyalive(salive):
 
 ┣ 𝗣𝗢𝘄𝗲𝗥𝗱 𝗕𝘆 
 
-  ⋆‌⃝𓆩𝐓𝐡𝐞 𝐖𝐓𝐅 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲𓆪⁩🕊️⃝
+  WTF COMMUNITY 
 
 ┗━━━━━━━━━━━━━━━
 
@@ -333,7 +333,7 @@ CUSTOM_ALIVE = (
 
 ┣ 𝗣𝗢𝘄𝗲𝗥𝗱 𝗕𝘆 
 
-  ⋆‌⃝𓆩𝐓𝐡𝐞 𝐖𝐓𝐅 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲𓆪⁩🕊️⃝
+  WTF COMMUNITY 
 
 ┗━━━━━━━━━━━━━━━
 
